@@ -1,1 +1,7 @@
 
+{
+    "name": "something/something",
+    "description": "A description of my project",
+    "type": "project"
+    
+}
